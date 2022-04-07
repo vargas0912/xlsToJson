@@ -1,0 +1,14 @@
+{
+  "name": "exlsjson",
+  "version": "1.0.0",
+  "description": "Crear archivo JSON a partir de Excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GVV",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
